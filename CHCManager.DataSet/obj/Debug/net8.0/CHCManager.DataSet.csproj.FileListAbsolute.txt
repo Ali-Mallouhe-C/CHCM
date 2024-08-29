@@ -1,0 +1,17 @@
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\bin\Debug\net8.0\CHCManager.DataSet.deps.json
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\bin\Debug\net8.0\CHCManager.DataSet.runtimeconfig.json
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\bin\Debug\net8.0\CHCManager.DataSet.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\bin\Debug\net8.0\CHCManager.DataSet.pdb
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\bin\Debug\net8.0\CHCManager.Domain.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\bin\Debug\net8.0\CHCManager.Domain.pdb
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.csproj.AssemblyReference.cache
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.AssemblyInfoInputs.cache
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.AssemblyInfo.cs
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.csproj.CoreCompileInputs.cache
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManag.B95E4778.Up2Date
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\refint\CHCManager.DataSet.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.pdb
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.genruntimeconfig.cache
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\ref\CHCManager.DataSet.dll

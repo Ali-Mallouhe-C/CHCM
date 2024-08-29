@@ -1,0 +1,11 @@
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\bin\Debug\net8.0\CHCManager.Domain.deps.json
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\bin\Debug\net8.0\CHCManager.Domain.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\bin\Debug\net8.0\CHCManager.Domain.pdb
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.AssemblyInfoInputs.cache
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.AssemblyInfo.cs
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\refint\CHCManager.Domain.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.pdb
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\ref\CHCManager.Domain.dll
