@@ -15,3 +15,4 @@ C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0
 C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.pdb
 C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.genruntimeconfig.cache
 C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\ref\CHCManager.DataSet.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.DataSet\obj\Debug\net8.0\CHCManager.DataSet.sourcelink.json

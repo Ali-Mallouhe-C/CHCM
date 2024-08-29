@@ -9,3 +9,4 @@ C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\
 C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\refint\CHCManager.Domain.dll
 C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.pdb
 C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\ref\CHCManager.Domain.dll
+C:\Users\ALI MALLOHE\source\repos\CHCManager\CHCManager.Domain\obj\Debug\net8.0\CHCManager.Domain.sourcelink.json

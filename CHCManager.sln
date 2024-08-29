@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHCManager.Domain", "CHCManager.Domain\CHCManager.Domain.csproj", "{C3EB79E2-636D-42CE-8082-A5026ACBEFB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CHCManager.Domain", "CHCManager.Domain\CHCManager.Domain.csproj", "{C3EB79E2-636D-42CE-8082-A5026ACBEFB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHCManager.DataSet", "CHCManager.DataSet\CHCManager.DataSet.csproj", "{44044E99-8B51-4D90-BFD1-CF776B475DB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CHCManager.DataSet", "CHCManager.DataSet\CHCManager.DataSet.csproj", "{44044E99-8B51-4D90-BFD1-CF776B475DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHCM.Program", "CHCM.Program\CHCM.Program.csproj", "{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{44044E99-8B51-4D90-BFD1-CF776B475DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44044E99-8B51-4D90-BFD1-CF776B475DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44044E99-8B51-4D90-BFD1-CF776B475DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

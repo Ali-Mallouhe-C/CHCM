@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Migrations\\20240829202113_UpdateBillApppointmentRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CHCManager.DataSet\\Migrations\\20240829202113_UpdateBillApppointmentRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}|CHCM.Program\\CHCM.Program.csproj|c:\\users\\ali mallohe\\source\\repos\\chcmanager\\chcm.program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB2E2A-2873-459E-A514-C3C37CAA0BB6}|CHCM.Program\\CHCM.Program.csproj|solutionrelative:chcm.program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3EB79E2-636D-42CE-8082-A5026ACBEFB3}|CHCManager.Domain\\CHCManager.Domain.csproj|c:\\users\\ali mallohe\\source\\repos\\chcmanager\\chcmanager.domain\\modul\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3EB79E2-636D-42CE-8082-A5026ACBEFB3}|CHCManager.Domain\\CHCManager.Domain.csproj|solutionrelative:chcmanager.domain\\modul\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44044E99-8B51-4D90-BFD1-CF776B475DB4}|CHCManager.DataSet\\CHCManager.DataSet.csproj|c:\\users\\ali mallohe\\source\\repos\\chcmanager\\chcmanager.dataset\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44044E99-8B51-4D90-BFD1-CF776B475DB4}|CHCManager.DataSet\\CHCManager.DataSet.csproj|solutionrelative:chcmanager.dataset\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3EB79E2-636D-42CE-8082-A5026ACBEFB3}|CHCManager.Domain\\CHCManager.Domain.csproj|c:\\users\\ali mallohe\\source\\repos\\chcmanager\\chcmanager.domain\\modul\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3EB79E2-636D-42CE-8082-A5026ACBEFB3}|CHCManager.Domain\\CHCManager.Domain.csproj|solutionrelative:chcmanager.domain\\modul\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44044E99-8B51-4D90-BFD1-CF776B475DB4}|CHCManager.DataSet\\CHCManager.DataSet.csproj|c:\\users\\ali mallohe\\source\\repos\\chcmanager\\chcmanager.dataset\\repository\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44044E99-8B51-4D90-BFD1-CF776B475DB4}|CHCManager.DataSet\\CHCManager.DataSet.csproj|solutionrelative:chcmanager.dataset\\repository\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Migrations\\20240829220522_UpdateClinicianProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CHCManager.DataSet\\Migrations\\20240829220522_UpdateClinicianProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,76 +21,69 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 12,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 267,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240829202113_UpdateBillApppointmentRelation.cs",
-              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Migrations\\20240829202113_UpdateBillApppointmentRelation.cs",
-              "RelativeDocumentMoniker": "CHCManager.DataSet\\Migrations\\20240829202113_UpdateBillApppointmentRelation.cs",
-              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Migrations\\20240829202113_UpdateBillApppointmentRelation.cs",
-              "RelativeToolTip": "CHCManager.DataSet\\Migrations\\20240829202113_UpdateBillApppointmentRelation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:21:13.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.Domain\\Modul\\Appointment.cs",
-              "RelativeDocumentMoniker": "CHCManager.Domain\\Modul\\Appointment.cs",
-              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.Domain\\Modul\\Appointment.cs",
-              "RelativeToolTip": "CHCManager.Domain\\Modul\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:15:43.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BillingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Repository\\BillingRepository.cs",
-              "RelativeDocumentMoniker": "CHCManager.DataSet\\Repository\\BillingRepository.cs",
-              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Repository\\BillingRepository.cs",
-              "RelativeToolTip": "CHCManager.DataSet\\Repository\\BillingRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:15:08.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Billing.cs",
-              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.Domain\\Modul\\Billing.cs",
-              "RelativeDocumentMoniker": "CHCManager.Domain\\Modul\\Billing.cs",
-              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.Domain\\Modul\\Billing.cs",
-              "RelativeToolTip": "CHCManager.Domain\\Modul\\Billing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:13:26.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCM.Program\\Program.cs",
+              "RelativeDocumentMoniker": "CHCM.Program\\Program.cs",
+              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCM.Program\\Program.cs",
+              "RelativeToolTip": "CHCM.Program\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:17:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "CHCManager.DataSet\\Repository\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "CHCManager.DataSet\\Repository\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:37:42.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240829220522_UpdateClinicianProperties.cs",
+              "DocumentMoniker": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Migrations\\20240829220522_UpdateClinicianProperties.cs",
+              "RelativeDocumentMoniker": "CHCManager.DataSet\\Migrations\\20240829220522_UpdateClinicianProperties.cs",
+              "ToolTip": "C:\\Users\\ALI MALLOHE\\source\\repos\\CHCManager\\CHCManager.DataSet\\Migrations\\20240829220522_UpdateClinicianProperties.cs",
+              "RelativeToolTip": "CHCManager.DataSet\\Migrations\\20240829220522_UpdateClinicianProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:05:22.47Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -65,10 +65,7 @@ namespace CHCManager.DataSet.Migrations
             modelBuilder.Entity("CHCManager.Domain.Modul.Appointment", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("ClinicianId")
                         .HasColumnType("int");
@@ -161,6 +158,10 @@ namespace CHCManager.DataSet.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Clinicians");
@@ -239,20 +240,30 @@ namespace CHCManager.DataSet.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("CHCManager.Domain.Modul.Billing", "Billing")
+                        .WithOne("Appointment")
+                        .HasForeignKey("CHCManager.Domain.Modul.Appointment", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("CHCManager.Domain.Modul.Patient", null)
                         .WithMany("Appointments")
                         .HasForeignKey("PatientId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Billing");
                 });
 
             modelBuilder.Entity("CHCManager.Domain.Modul.Billing", b =>
                 {
-                    b.HasOne("CHCManager.Domain.Modul.Patient", null)
+                    b.HasOne("CHCManager.Domain.Modul.Patient", "Patient")
                         .WithMany("Billings")
                         .HasForeignKey("PatientId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Patient");
                 });
 
             modelBuilder.Entity("ClinicianPatient", b =>
@@ -267,6 +278,12 @@ namespace CHCManager.DataSet.Migrations
                         .WithMany()
                         .HasForeignKey("PatientsId")
                         .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("CHCManager.Domain.Modul.Billing", b =>
+                {
+                    b.Navigation("Appointment")
                         .IsRequired();
                 });
 
